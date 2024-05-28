@@ -17,7 +17,10 @@ Administrator Daycare: Mengelola operasional harian daycare, termasuk administra
 ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Dimas/ERD/APBO%20-%20ERD.png?raw=true)
 
 <h1>ERD</h1>
+![alt text](https://github.com/Dimsstr/4522210002_DimasSatrioParikesit_Daycare/blob/main/files_daycare/ERD_daycare.png)
 
+<h1>Class Diagram</h1>
+![alt text](https://github.com/Dimsstr/4522210002_DimasSatrioParikesit_Daycare/blob/main/files_daycare/ClassDiagram_daycare(fix).png)
 
 
 
