@@ -13,18 +13,14 @@ Orang Tua/Wali: Klien utama yang mempercayakan anak-anak mereka kepada daycare.<
 Staf Daycare: Pengasuh dan pendidik yang bertanggung jawab langsung terhadap perawatan dan pengawasan anak-anak.<br>
 Administrator Daycare: Mengelola operasional harian daycare, termasuk administrasi dan pengawasan staf.<br>
 
-<h1>Use Case</h1>!
-<img width="700px" src="https://github.com/Dimsstr/4522210002_DimasSatrioParikesit_Daycare/blob/main/files_daycare/usecase_daycare.drawio.png?raw=true"/>
-
-
+<h1>Use Case</h1>
+<img width="400px" src="https://github.com/Dimsstr/4522210002_DimasSatrioParikesit_Daycare/blob/main/files_daycare/usecase_daycare.drawio.png?raw=true"/>
 
 <h1>ERD</h1>
-![alt text](https://github.com/Dimsstr/4522210002_DimasSatrioParikesit_Daycare/blob/main/files_daycare/ERD_daycare.png)
+<img width="700px" src="https://github.com/Dimsstr/4522210002_DimasSatrioParikesit_Daycare/blob/main/files_daycare/ERD_daycare.png?raw=true"/>
 
 <h1>Class Diagram</h1>
-![alt text](https://github.com/Dimsstr/4522210002_DimasSatrioParikesit_Daycare/blob/main/files_daycare/ClassDiagram_daycare(fix).png)
-
-
+<img width="700px" src="https://github.com/Dimsstr/4522210002_DimasSatrioParikesit_Daycare/blob/main/files_daycare/ClassDiagram_daycare(fix).png?raw=true"/>
 
 
 
