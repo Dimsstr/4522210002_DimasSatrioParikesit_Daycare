@@ -14,7 +14,8 @@ Staf Daycare: Pengasuh dan pendidik yang bertanggung jawab langsung terhadap per
 Administrator Daycare: Mengelola operasional harian daycare, termasuk administrasi dan pengawasan staf.<br>
 
 <h1>Use Case</h1>
-![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Dimas/ERD/APBO%20-%20ERD.png?raw=true)
+![usecase_daycare drawio](https://github.com/Dimsstr/4522210002_DimasSatrioParikesit_Daycare/assets/145928295/49005a41-f652-42aa-8407-fa34c3a8dab6)
+
 
 <h1>ERD</h1>
 ![alt text](https://github.com/Dimsstr/4522210002_DimasSatrioParikesit_Daycare/blob/main/files_daycare/ERD_daycare.png)
